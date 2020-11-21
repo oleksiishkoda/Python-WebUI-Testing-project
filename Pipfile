@@ -4,9 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+selenium = "*"
 
 [dev-packages]
 pytest = "*"
+selenium = "*"
 
 [requires]
 python_version = "3.8"

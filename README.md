@@ -1,1 +1,1 @@
-# Python-WebUI-Testing-project
+# Python-WebUI-Automation-Testing-project

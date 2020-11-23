@@ -1,0 +1,76 @@
+1606164089297	geckodriver	INFO	Listening on 127.0.0.1:58388
+1606164092342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VsemPK\\AppData\\Local\\Temp\\rust_mozprofile4Bsg9Y"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606164095213	Marionette	INFO	Listening on port 58396
+1606164095503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+1606164098635	Marionette	INFO	Stopped listening on port 58396
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606164664676	geckodriver	INFO	Listening on 127.0.0.1:58538
+1606164667742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VsemPK\\AppData\\Local\\Temp\\rust_mozprofileP3G6Cm"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606164670411	Marionette	INFO	Listening on port 58546
+1606164670900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+1606164673583	Marionette	INFO	Stopped listening on port 58546
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1606164692383	geckodriver	INFO	Listening on 127.0.0.1:58603
+1606164695445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\VsemPK\\AppData\\Local\\Temp\\rust_mozprofile5skUdr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606164698300	Marionette	INFO	Listening on port 58611
+1606164698603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2882.js, line 1: unreachable code after return statement
+1606164701495	Marionette	INFO	Stopped listening on port 58611
+JavaScript error: resource:///actors/SearchTelemetryChild.jsm, line 150: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
